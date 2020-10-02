@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Joana Santos",
+            "email": "joana.santos123@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Paulo Nogueira",
+            "email": "paulonogueira.2020@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Francisco Silva",
+            "email": "chico.silvaa@gmail.com"
+        }
+    ]
+}
